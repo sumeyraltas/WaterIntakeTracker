@@ -34,8 +34,8 @@ Bu proje, modern Android geliştirme standartlarına (Modern Android Development
 | Dashboard |              Geçmiş | Profil |
 
 <img width="240" src="https://github.com/user-attachments/assets/ce40ad15-9d3b-4245-94db-68de804e8d5e" />     
-<img width="240" src="https://github.com/user-attachments/assets/aff0a9e1-6c0d-4e79-9df9-b721ad28e8d1" />.     
-<img width="240" src="https://github.com/user-attachments/assets/018cce5a-dca4-4ca9-9b51-81af3867134e" />.   
+<img width="240" src="https://github.com/user-attachments/assets/aff0a9e1-6c0d-4e79-9df9-b721ad28e8d1" />     
+<img width="240" src="https://github.com/user-attachments/assets/018cce5a-dca4-4ca9-9b51-81af3867134e" />   
 
 
 
@@ -66,4 +66,4 @@ Bu proje açık kaynaklıdır. Geliştirmelere destek olmak isterseniz:
 5. Bir Pull Request açın!
 
 ---
-*Developed with ❤️ using Jetpack Compose.*
+
