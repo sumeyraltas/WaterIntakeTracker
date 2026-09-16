@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sumeyraltas/.gradle/daemon/9.3.0/com.example.waterintake.app-debug-75:/xml_backup_rules.xml.flat",
+        "source": "/Users/sumeyraltas/.gradle/daemon/9.3.0/com.example.waterintake.app-main-77:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.waterintake.app-debug-75:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.waterintake.app-main-77:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sumeyraltas/.gradle/daemon/9.3.0/com.example.waterintake.app-debug-75:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/sumeyraltas/.gradle/daemon/9.3.0/com.example.waterintake.app-main-77:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.waterintake.app-debug-75:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.waterintake.app-main-77:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.waterintake.app-debug-75:/xml_water_intake_widget_info.xml.flat",
+        "source": "com.example.waterintake.app-main-77:/xml/water_intake_widget_info.xml"
+    }
+]
